@@ -1,0 +1,39 @@
+{
+  "name": "claim-your-quota",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@astrox/connection": "^0.0.52",
+    "@astrox/sdk-core": "^0.1.28",
+    "@astrox/sdk-web": "^0.1.28",
+    "@astrox/sdk-webview": "^0.1.28",
+    "@dfinity/agent": "^0.12.2",
+    "@dfinity/auth-client": "^0.12.2",
+    "@dfinity/authentication": "^0.12.2",
+    "@dfinity/candid": "^0.12.2",
+    "@dfinity/identity": "^0.12.2",
+    "@dfinity/principal": "^0.12.2",
+    "dat.gui": "^0.7.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "zustand": "^4.5.1",
+    "web-utility": "^3.8.0"
+  },
+  "devDependencies": {
+    "@types/dat.gui": "^0.7.12",
+    "@types/node": "^20.11.20",
+    "@types/react": "^18.2.56",
+    "@types/react-dom": "^18.2.19",
+    "@vitejs/plugin-react": "^4.2.1",
+    "process": "^0.11.10",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.4"
+  }
+}

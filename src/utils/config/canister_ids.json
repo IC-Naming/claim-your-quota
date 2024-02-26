@@ -1,0 +1,85 @@
+{
+  "ic_registry": {
+    "local": "qsgjb-riaaa-aaaaa-aaaga-cai",
+    "staging": "eqs6x-hyaaa-aaaam-aafka-cai",
+    "ic": "f542z-iqaaa-aaaam-aafnq-cai"
+  },
+  "icp_registry": {
+    "local": "c7nxw-iiaaa-aaaam-aacaq-cai",
+    "staging": "c7nxw-iiaaa-aaaam-aacaq-cai",
+    "ic": "c7nxw-iiaaa-aaaam-aacaq-cai"
+  },
+  "ic_registrar": {
+    "local": "qaa6y-5yaaa-aaaaa-aaafa-cai",
+    "staging": "ecujo-liaaa-aaaam-aafja-cai",
+    "ic": "ft6xr-taaaa-aaaam-aafmq-cai"
+  },
+  "icp_registrar": {
+    "local": "cymrc-fqaaa-aaaam-aacaa-cai",
+    "staging": "cymrc-fqaaa-aaaam-aacaa-cai",
+    "ic": "cymrc-fqaaa-aaaam-aacaa-cai"
+  },
+  "ic_resolver": {
+    "local": "qvhpv-4qaaa-aaaaa-aaagq-cai",
+    "staging": "extyd-kaaaa-aaaam-aafkq-cai",
+    "ic": "fi3lu-jyaaa-aaaam-aafoa-cai"
+  },
+  "icp_resolver": {
+    "local": "cwo4k-6aaaa-aaaam-aacba-cai",
+    "staging": "cwo4k-6aaaa-aaaam-aacba-cai",
+    "ic": "cwo4k-6aaaa-aaaam-aacba-cai"
+  },
+  "ic_favorites": {
+    "local": "rdmx6-jaaaa-aaaaa-aaadq-cai",
+    "staging": "elxcs-5aaaa-aaaam-aafiq-cai",
+    "ic": "fu7rf-6yaaa-aaaam-aafma-cai"
+  },
+  "icp_favorites": {
+    "local": "crp26-tyaaa-aaaam-aacbq-cai",
+    "staging": "crp26-tyaaa-aaaam-aacbq-cai",
+    "ic": "crp26-tyaaa-aaaam-aacbq-cai"
+  },
+  "registrar_control_gateway": {
+    "local": "qhbym-qaaaa-aaaaa-aaafq-cai",
+    "staging": "efvp2-gqaaa-aaaam-aafjq-cai",
+    "ic": "f254n-fiaaa-aaaam-aafna-cai"
+  },
+  "dicp": {
+    "local": "rkp4c-7iaaa-aaaaa-aaaca-cai",
+    "ic": "poemj-4qaaa-aaaam-aaevq-cai",
+    "staging": "poemj-4qaaa-aaaam-aaevq-cai"
+  },
+  "dicp_minter": {
+    "local": "rno2w-sqaaa-aaaaa-aaacq-cai",
+    "ic": "p3d5e-5yaaa-aaaam-aaewa-cai",
+    "staging": "p3d5e-5yaaa-aaaam-aaewa-cai"
+  },
+  "inmg": {
+    "local": "rrkah-fqaaa-aaaaa-aaaaq-cai",
+    "ic": "q43nu-4aaaa-aaaam-aanma-cai",
+    "staging": "a2c4z-zaaaa-aaaam-aafqq-cai"
+  },
+  "blind_box": {
+    "local": "ryjl3-tyaaa-aaaaa-aaaba-cai",
+    "ic": "fp2na-eaaaa-aaaam-aafoq-cai",
+    "staging": "e6qt7-4iaaa-aaaam-aafla-cai"
+  },
+  "exchange": {
+    "local": "renrk-eyaaa-aaaaa-aaada-cai",
+    "ic": "fgzg4-siaaa-aaaam-aafpa-cai",
+    "staging": "ezrvl-rqaaa-aaaam-aaflq-cai"
+  },
+  "cycles_minting": {
+    "local": "r7inp-6aaaa-aaaaa-aaabq-cai",
+    "ic": "rkp4c-7iaaa-aaaaa-aaaca-cai",
+    "staging": "rkp4c-7iaaa-aaaaa-aaaca-cai"
+  },
+  "ledger": {
+    "local": "qjdve-lqaaa-aaaaa-aaaeq-cai",
+    "ic": "ryjl3-tyaaa-aaaaa-aaaba-cai",
+    "staging": "ryjl3-tyaaa-aaaaa-aaaba-cai"
+  },
+  "free_token": {
+    "local": "qoctq-giaaa-aaaaa-aaaea-cai"
+  }
+}
